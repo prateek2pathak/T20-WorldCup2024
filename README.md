@@ -2,7 +2,7 @@
 
 ![Demo](demo.gif)
 
-This web application fetches live cricket match scores from an API and dynamically displays them along with country flags of the participating teams.
+This extension fetches live cricket match scores from an API and dynamically displays them along with country flags of the participating teams.
 
 ## Features
 
