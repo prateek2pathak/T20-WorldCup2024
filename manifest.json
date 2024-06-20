@@ -1,0 +1,17 @@
+{
+    "name":"T20 World Cup 2024",
+    "version":"1.0.1",
+    "description":"Prateek Extension",
+    "manifest_version":3,
+    "author":"Prateek Pathak",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"LiveScore"
+    },
+    "icons": {
+        "16": "extFav16.png",
+        "32": "extFav32.png",
+        "48": "extFav48.png",
+        "128": "extFav128.png"
+    }
+}
