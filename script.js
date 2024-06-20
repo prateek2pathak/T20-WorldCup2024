@@ -30,7 +30,7 @@ function addItem(matchData) {
 
 
 async function getScores() {
-    const response = await fetch('https://api.cricapi.com/v1/cricScore?apikey=d79fa79a-ebd6-4f9b-9deb-0d9cf46aa4f4');
+    const response = await fetch('https://api.cricapi.com/v1/cricScore?apikey=YOUR_KEY');
     const json = await response.json();
     const data = json.data;
     console.log(data);
