@@ -1,4 +1,4 @@
-# Live Cricket Match Scores with Country Flags
+# T-20 World Cup 2024
 
 ![Demo](demo.gif)
 
