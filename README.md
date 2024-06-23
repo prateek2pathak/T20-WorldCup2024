@@ -29,7 +29,8 @@ To run this project locally, follow these steps:
     cd live-cricket-scores
 
 3. Get your key from CricAPI then, Click on load upacked and select the folder
-![image](https://github.com/prateek2pathak/T20-WorldCup2024/assets/119005608/15253e0b-839e-45d1-a864-68008a76f5ac)
+   ![image](https://github.com/prateek2pathak/T20-WorldCup2024/assets/119005608/509d01c9-9331-4e37-a33b-c22c9dfeec46)
+
 
 
 ## How It Works
